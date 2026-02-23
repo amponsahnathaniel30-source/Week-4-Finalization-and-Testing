@@ -1,0 +1,26 @@
+// attendance_session.cpp (continued)
+void generateReport() {
+    // implement report generation logic
+}
+
+
+2. Commit 11: Test and debug the system
+
+// main.cpp (continued)
+int main() {
+    // test and debug the system
+    return 0;
+}
+
+
+3. Commit 12: Finalize project documentation and submit via GitHub
+
+// README.md
+# Digital Attendance System
+## Project Description
+A digital attendance system for managing student attendance.
+## Features
+* Register students
+* Create sessions
+* Mark attendance
+* Generate reports
